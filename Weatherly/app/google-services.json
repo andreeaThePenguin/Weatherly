@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "230947453737",
+    "firebase_url": "https://weatherly-local-station-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "weatherly-local-station",
+    "storage_bucket": "weatherly-local-station.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230947453737:android:2dd4afe2ec11393ad21538",
+        "android_client_info": {
+          "package_name": "com.smd.weatherly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD728ic1Avj_mcqrTd9CGOfB_oSCbt_0pI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
