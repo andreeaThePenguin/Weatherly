@@ -3,5 +3,6 @@ Combo Android weather application using openweatherapi, with a locally integrate
 
 # Demo
 Below is a short demo for the locally integrated weather station.
-https://github.com/andreeaThePenguin/Weatherly/assets/69588288/f1f2e3a9-ff5d-467e-aadc-f216b02382ac
+
+https://github.com/andreeaThePenguin/Weatherly/assets/69588288/d670551e-a711-482f-a60e-5bc771b44ae7
 
